@@ -1,5 +1,15 @@
 Website Update Summary — Hazel Wong Portfolio
 
+- How to change current theme:
+
+  1. Go to `nino-react` folder and make changes.
+  2. Run `npm run preview` to check changes.
+  3. Run `npm run build` to build `dist` folder.
+  4. Copy and paste files in dist folder and replace the ones in github repo.
+  5. Add, commit and push changes.
+
+June 7 2025 Update:
+
 - Old theme migration:
   Moved the previous "Tokyo" theme files from the main branch into a new branch called "tokyo-theme"
   to preserve the old site while working on the new one.
